@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Sumant Saxena # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Sr Data Scientist & Chief of Staff at CognitiveCare 
   <br><br>
-  Second description 
+  Business-minded Data Scientist with 4 years of experience in building ML solutions from ground up and demonstrated ability in delivering valuable insights via advanced data analytics to various stakeholders.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/sumantsaxena/">LinkedIn</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
